@@ -4,8 +4,8 @@
   --UNC-Gold: #f6b000;
   --UNC-Gray: #8a8a8d;
 }
-body {
-    font-family: Arial, sans-serif;
+body
+{
     background-color: var(--UNC-Gray);
 }
 *
@@ -13,19 +13,28 @@ body {
     color: var(--UNC-Blue);
     text-align: center;
 }
-nav {
-    border: 7px var(--UNC-Gold) solid;
-    
+h1
+{
+    font-size: calc(12pt + 4vw);
 }
-
-section {
+nav
+{
+    border: 7px var(--UNC-Gold) solid;
+}
+section
+{
     border: 5px var(--UNC-Blue) solid;
     margin: 5px;
     margin-top: 50px;
 }
-.data 
+.date
 {
     color: var(--UNC-Gold);
+}
+ul
+{
+    list-style: none;
+    padding-left: 0px;
 }
 h1 {
     color: #333; 
