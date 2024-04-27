@@ -17,10 +17,7 @@ img {
 a {
     text-shadow: 0 0 3px rgb(250, 81, 81), 0 0 6px purple;
     color: #e7e6e6; 
-    font-size: 24px;
-    font-weight: bold;
     text-decoration: underline;
-    text-align: left;
 }
 
 label {
