@@ -25,6 +25,15 @@ h1 {
     text-align: left;
 }
 
+h2 {
+    text-shadow: 0 0 3px rgb(132, 94, 202), 0 0 6px purple;
+    color: #e7e6e6; 
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left;
+}
+
 h3 {
     text-shadow: 0 0 3px rgb(57, 234, 247), 0 0 6px rgb(92, 24, 92);
     color: #f0f0f0; 
