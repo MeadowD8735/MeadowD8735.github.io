@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(177, 157, 250); 
+    background: linear-gradient(to bottom right, black, rgb(131, 7, 131) )
 }
 
 
@@ -14,8 +14,11 @@ img {
 }
 
 
+
+
 h1 {
-    color: #333; 
+    text-shadow: 0 0 3px rgb(250, 81, 81), 0 0 6px purple;
+    color: #000000; 
     font-size: 24px;
     font-weight: bold;
     text-decoration: underline;
@@ -23,7 +26,8 @@ h1 {
 }
 
 h3 {
-    color: #333;
+    text-shadow: 0 0 3px rgb(57, 234, 247), 0 0 6px rgb(92, 24, 92);
+    color: #000000;
     font-size: 18px; 
     font-style: italic; 
     text-decoration: underline;
@@ -31,7 +35,8 @@ h3 {
 }
 
 p {
-    color: #333;
+    text-shadow: 0 0 3px rgb(105, 190, 105), 0 0 6px rgb(184, 69, 184);
+    color: #000000;
     font-size: 18px;
     font-weight: bold; 
     text-decoration: underline; 
