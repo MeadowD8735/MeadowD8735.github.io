@@ -18,7 +18,7 @@ img {
 
 h1 {
     text-shadow: 0 0 3px rgb(250, 81, 81), 0 0 6px purple;
-    color: #e2e2e2; 
+    color: #e7e6e6; 
     font-size: 24px;
     font-weight: bold;
     text-decoration: underline;
@@ -27,7 +27,7 @@ h1 {
 
 h3 {
     text-shadow: 0 0 3px rgb(57, 234, 247), 0 0 6px rgb(92, 24, 92);
-    color: #e2e2e2; 
+    color: #f0f0f0; 
     font-size: 18px; 
     font-style: italic; 
     text-decoration: underline;
@@ -36,7 +36,7 @@ h3 {
 
 p {
     text-shadow: 0 0 3px rgb(105, 190, 105), 0 0 6px rgb(184, 69, 184);
-    color: #e2e2e2; 
+    color: #e7e5e5; 
     font-size: 18px;
     font-weight: bold; 
     text-decoration: underline; 
